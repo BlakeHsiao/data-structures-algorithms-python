@@ -23,7 +23,7 @@ Figure out data structure that is best for this problem
  'I': 8
 ```
 
-[Solution](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/4_HashTable_2_Collisions/Solution/exercise_poem_find_word_occurances.ipynb)
+[Solution](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_s tructures/4_HashTable_2_Collisions/Solution/exercise_poem_find_word_occurances.ipynb)
 
 4. Implement hash table where collisions are handled using linear probing. We learnt about linear probing in the video tutorial. Take the hash table implementation that uses chaining and modify methods to use **linear probing**. Keep MAX size of arr in hashtable as 10.
 
